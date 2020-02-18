@@ -3,7 +3,7 @@ templateKey: index-page
 title: cambio el titulo
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: y cambio de subtitulo
+subheading: y cambio de subtitulo otra vez
 mainpitch:
   title: Why Kaldi
   description: >
