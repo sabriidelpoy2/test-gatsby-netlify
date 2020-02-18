@@ -1,7 +1,8 @@
 backend:
   name: github
-  repo: sabriidelpoy/test-gatsby-netlify
+  repo: sabriidelpoy2/test-gatsby-netlify
   branch: master
+  base_url: https://test-gatsby-netlify-auth.herokuapp.com/
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
